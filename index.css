@@ -1,0 +1,13 @@
+.counter{
+    /* text-align:center; */
+    margin-top:250px;
+    margin-left:375px;
+    display:inline-block;
+    justify-content: center;
+    background-color:rgb(248, 212, 218);
+    font-size: 50px;
+    font-family: fantasy;
+}
+body{
+   background-color:rgb(214, 245, 245) ;
+}
